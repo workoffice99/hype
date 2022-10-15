@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x64623b62542EbD13c72D0165aa654204e7adBcdD",
+  "SCAN_LINK": "https://etherscan.io/address/0x64623b62542EbD13c72D0165aa654204e7adBcdD",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Haunted Hype Beasts ",
+  "SYMBOL": "HHB",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/haunted-hype-beasts",
+  "SHOW_BACKGROUND": true
+}
